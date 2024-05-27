@@ -1,6 +1,7 @@
 {
   "name": "desplieguereact",
   "private": true,
+  "homepage":"https://pmarmor.github.io/desplieguereact/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
